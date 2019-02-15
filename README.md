@@ -93,7 +93,7 @@ If the sanity check is passed a green field is shown between the lines. If not t
 
 Pipeline class is defined because the fl_image function doesn't take functions with multiple parameters.
 
-![link to my video result](output_videos/project_video.mp4)
+[link to my video result](output_videos/project_video.mp4)
 
 
 ### Discussion
